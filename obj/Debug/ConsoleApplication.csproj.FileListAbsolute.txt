@@ -1,0 +1,7 @@
+C:\Users\hso2\Documents\Visual Studio 2015\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\hso2\Documents\Visual Studio 2015\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\hso2\Documents\Visual Studio 2015\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\hso2\Documents\Visual Studio 2015\ConsoleApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hso2\Documents\Visual Studio 2015\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\hso2\Documents\Visual Studio 2015\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\hso2\Documents\Visual Studio 2015\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
